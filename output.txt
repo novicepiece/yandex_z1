@@ -1,0 +1,10 @@
+
+=====================================
+Results
+=====================================
+
+cycled_number = true. //It is cycled!
+one_game_cycled = true. //At least one game was cycled!
+all_games_cycled = true. //All possible games were cycled!
+proofed_cycling = true. //Proofed cycled number! Nice!
+errors = no. //Everything is fine.
