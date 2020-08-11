@@ -1,8 +1,0 @@
-# depslib dependency file v1.0
-1597098036 source:d:\_projects\yandex\z1_winterhome\main.cpp
-	<iostream>
-	<vector>
-	<algorithm>
-	<fstream>
-	<clocale>
-
